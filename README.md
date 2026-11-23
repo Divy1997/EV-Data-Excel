@@ -20,3 +20,4 @@ and business metrics. Cleaned and transformed raw data to ensure data accuracy a
  
 
   
+<img width="1833" height="643" alt="Screenshot 2026-11-23 144019" src="https://github.com/user-attachments/assets/e2a6e15a-ea96-4c23-8369-aba66516924a" />
